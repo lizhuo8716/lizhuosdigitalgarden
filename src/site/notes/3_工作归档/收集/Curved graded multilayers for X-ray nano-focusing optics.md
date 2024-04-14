@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/3//curved-graded-multilayers-for-x-ray-nano-focusing-optics/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/3//curved-graded-multilayers-for-x-ray-nano-focusing-optics/"}
 ---
 
 [Zotero](zotero://select/library/items/9HEV7AKL) [attachment](<file:///D:/FILE/zotero%20database/storage/WSHSG822/Morawe%20%E5%92%8C%20Osterhoff%20-%202010%20-%20Curved%20graded%20multilayers%20for%20X-ray%20nano-focusing%20.pdf>)
