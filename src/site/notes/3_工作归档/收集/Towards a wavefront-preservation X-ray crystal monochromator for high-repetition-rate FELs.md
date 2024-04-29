@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"url":null,"tags":["同步辐射/X射线","同步辐射/光学元件/硅晶体","同步辐射/光学元件/热变形","同步辐射/光学测量/波前测量","同步辐射/光学测量/斯特雷尔比Strehlratio","同步辐射/自由电子激光"],"评分":5,"类型":["论文"],"发表年份":2023,"结束时间":"2023-12-19T00:00:00.000+08:00","简单评价":"非常详细非常良心，非常需要再读几次，关于热变形的解释非常好懂","permalink":"/3_工作归档/收集/Towards a wavefront-preservation X-ray crystal monochromator for high-repetition-rate FELs/","dgPassFrontmatter":true}
+{"dg-publish":true,"url":null,"tags":["同步辐射","同步辐射/光学元件/硅晶体","同步辐射/光学元件/热变形","同步辐射/光学测量/波前测量","同步辐射/光学测量/斯特雷尔比Strehlratio","同步辐射/自由电子激光"],"评分":5,"类型":["论文"],"发表年份":2023,"结束时间":"2023-12-19T00:00:00.000+08:00","简单评价":"非常详细非常良心，非常需要再读几次，关于热变形的解释非常好懂","permalink":"/3_工作归档/收集/Towards a wavefront-preservation X-ray crystal monochromator for high-repetition-rate FELs/","dgPassFrontmatter":true}
 ---
 
 
